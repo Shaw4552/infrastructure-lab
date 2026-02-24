@@ -25,3 +25,18 @@ Public, sanitized infrastructure lab documentation demonstrating enterprise-styl
 - Add firewall policy matrix
 - Add hardening checklist
 - Add backup test procedure
+
+---
+
+# Interview Walkthrough Guide
+
+This repository can be reviewed in the following order:
+
+1. Network Topology
+2. VLAN Segmentation Strategy
+3. Firewall Policy Matrix
+4. Docker Architecture
+5. Backup & Recovery Plan
+6. Remote Access Security
+
+This lab demonstrates architectural reasoning, security-first thinking, and infrastructure documentation discipline.
