@@ -1,6 +1,13 @@
 # Infrastructure Lab – Segmented Network & Secure Service Architecture
 
-This repository documents a **sanitized infrastructure lab** designed to simulate enterprise-grade network architecture, security controls, and service deployment practices.
+> **Supporting Infrastructure Project**
+>
+> This repository represents an earlier, documentation-focused stage of my infrastructure engineering work and demonstrates how I approached segmentation, secure service deployment, backup/recovery, VPN access, and infrastructure hardening.
+>
+> My current integrated multi-site environment is documented here:
+> [Enterprise-Style Homelab Infrastructure](https://github.com/Shaw4552/homelab-public)
+
+This repository documents a **sanitized infrastructure lab** designed to apply enterprise-style network architecture, security controls, and service deployment practices.
 
 The lab demonstrates structured thinking around:
 
@@ -85,7 +92,7 @@ Recovery planning is treated as part of architecture — not an afterthought.
 
 ---
 
-# Interview Walkthrough Guide
+## Project Walkthrough
 
 Suggested review order:
 
@@ -96,4 +103,4 @@ Suggested review order:
 5. Backup & Recovery Strategy
 6. VPN Access Model
 
-This repository demonstrates structured infrastructure thinking, layered security design, and documentation discipline aligned with real-world IT operations.
+This repository demonstrates structured infrastructure thinking, layered security design, repeatable deployment concepts, and documentation practices relevant to IT operations.
